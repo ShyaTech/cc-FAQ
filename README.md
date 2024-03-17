@@ -50,7 +50,10 @@ https://www.tradingview.com/markets/cryptocurrencies/prices-all/
 <details><summary><b> Где хранить криптовалюту? Какие есть кошельки?</b></summary>
 ...
 </details>
+<details><summary><b> Какие биржи посоветуете?</b></summary>
+Никакие.
 
+</details>
 <details><summary><b> Что такое токен и как его купить?</b></summary>
 ...
 </details>
