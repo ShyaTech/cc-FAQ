@@ -18,7 +18,7 @@
 
 <details><summary><b> Я хочу углубиться в историю денег и подробнее почитать про биткоин</b></summary>
 Довольно хорошо описана история денег и технические особенности в книге Cейфедина Аммуса - Краткая история денег, или Все, что нужно знать о биткоине 
-  ( [скачать]([https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/wallpaper/](https://docs.f2c.dev/Oris_Lab/The_Bitcoin_Standard_The_Decentralized_Alternative_To_Central_Banking.pdf)) )
+   [скачать]([https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/wallpaper/](https://docs.f2c.dev/Oris_Lab/The_Bitcoin_Standard_The_Decentralized_Alternative_To_Central_Banking.pdf))
 Техническое описание - white paper биткоина (eng): https://bitcoin.org/bitcoin.pdf и (ru): https://bitcoin.org/files/bitcoin-paper/bitcoin_ru.pdf
 
 Основное можно почитать и на википедии:
