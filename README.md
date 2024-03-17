@@ -70,7 +70,9 @@ https://ru.wikipedia.org/wiki/Криптовалюта
 <details><summary><b> Купить  и холдить скучно, что почитать для трейдинга? Хочу максимально быстро разбогатеть. </b></summary>
 ...
 </details>
-
+<details><summary><b> Как мне купить что-то в даркнете максимально анонимно?</b></summary>
+...
+</details>
 
 
 <details><summary><b> Может есть ещё какие-то FAQ?</b></summary>
