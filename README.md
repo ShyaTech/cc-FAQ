@@ -69,8 +69,7 @@ KYC - Know Your Client - знай своего клиента
 Для сравнения есть удобный <a href=https://cryptostreets.io/>сайт</a>.
 </details>
 <details><summary><b> Где посмотреть графики цены криптовалюты?</b></summary>
-Единой цены не существует. На каждом обменнике и на каждой бирже цена чуть-чуть отличается и «вырвнивают» её пользователи и арбитраж-боты.
-<br>Смотреть средне-взвешенную цену удобно на аггрегаторах, например:
+Смотреть средне-взвешенную цену удобно на аггрегаторах, например:
 <br>https://coinmarketcap.com/
 <br>https://www.tradingview.com/markets/cryptocurrencies/prices-all/
 <br>https://www.coingecko.com/
