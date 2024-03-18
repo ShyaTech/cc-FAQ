@@ -40,7 +40,7 @@ https://ru.wikipedia.org/wiki/Криптовалюта
 <br><br>Тут можно найти все сообщения самого Satoshi Nakamoto: https://bitcointalk.org/index.php?action=profile;u=3
 </details>
 <details><summary><b> Где купить криптовалюту?</b></summary>
-<br>Вариант №1 - bestchange.ru
+Вариант №1 - bestchange.ru
 <br>Вариант №2 - На бирже. Представляет собой p2p, в котором могут кинуть, не смотря на кажущаюся надежность.
 <br>Вариант №3 - Криптоматы
 <br>Можно посмотреть на различных картах, например: https://coinmap.org/view/#/world/-2.63578857/4.74609375/2/atm
