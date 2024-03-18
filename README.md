@@ -93,6 +93,17 @@ KYC - Know Your Client - знай своего клиента
 </details>
 <details><summary><b> Как максимально перемешать биткоины?</b></summary>
 Лучший способ сейчас это – воспользоваться Whirlpool в кошельке под названием Samourai wallet.
+ <br> Используя биткоин для не совсем законных дел, стоит помнить, что существует много компаний, которые профессионально отслеживают биткоины, вот некоторые из них:
+ <br>Ciphertrace
+<br>Chainalysis
+<br>Elliptic
+<br>IdentityMind
+<br>Elementus
+<br>BlockSeer
+<br>Scorechain
+<br>Neutrino
+<br>Crystal
+<br>Blockchain Intel
 </details>
 <details><summary><b> Можно ли как-то использовать криптовалюту, кроме как спекулировать ей?</b></summary>
 Можно.
