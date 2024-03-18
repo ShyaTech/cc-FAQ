@@ -74,7 +74,16 @@ https://ru.wikipedia.org/wiki/Криптовалюта
 ...
 </details>
 
-
+</details>
+<details><summary><b> Как максимально перемешать биткоины?</b></summary>
+Лучший способ сейчас это – воспользоваться Whirlpool в кошельке под названием Samourai wallet.
+</details>
+<details><summary><b> Можно ли как-то использовать криптовалюту, кроме как спекулировать ей?</b></summary>
+Можно.
+Кроме очевидных магазинов в даркнете, есть ещё около-законные места.
+ Тут собраны все места торговли ИРЛ за крипту: https://cryptwerk.com/
+ Тут различные vps, vpn, sms и прочее: https://kycnot.me/
+</details>
 <details><summary><b> Может есть ещё какие-то FAQ?</b></summary>
 Есть.
    <br>
