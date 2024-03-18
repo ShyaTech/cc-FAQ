@@ -155,8 +155,9 @@ https://blog.kraken.com/product/security/kraken-security-labs-finds-flaws-in-saf
 
   <br>https://bisq.network/ - Открытый исходный код, ты имеешь ключи от монет, нет KYC.
  <br> https://basicswapdex.com/ - Открытый исходный код, ты имеешь ключи от монет, нет KYC.
- <br>https://hodlhodl.com/ Nы имеешь ключи от монет, нет KYC.
- Полный список всех DEX можно найти тут: https://www.coingecko.com/en/exchanges/decentralized
+ <br>https://hodlhodl.com/ Ты имеешь ключи от монет, нет KYC.
+ <br>
+ <br>Полный список всех DEX можно найти тут: https://www.coingecko.com/en/exchanges/decentralized
 </details>
 
 
