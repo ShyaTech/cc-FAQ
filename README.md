@@ -36,6 +36,7 @@ https://ru.wikipedia.org/wiki/Биткойн
 https://ru.wikipedia.org/wiki/Электронные_деньги
 <br>
 https://ru.wikipedia.org/wiki/Криптовалюта
+Тут можно найти все сообщения самого Satoshi Nakamoto: https://bitcointalk.org/index.php?action=profile;u=3
 </details>
 <details><summary><b> Где купить криптовалюту?</b></summary>
 ......
