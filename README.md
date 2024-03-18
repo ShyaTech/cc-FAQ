@@ -54,8 +54,8 @@ NFT
  web3.0
 </details>
 
-<details><summary><b> Что такое стейблкоины и что это такое?</b></summary>
-стейбоины
+<details><summary><b> Что такое стейблкоины, какие они бывают, как купить, как использовать?</b></summary>
+стейблкоины
 </details>
 
 <details><summary><b> Где купить криптовалюту?</b></summary>
