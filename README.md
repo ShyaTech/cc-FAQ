@@ -78,15 +78,16 @@ KYC - Know Your Client - знай своего клиента
    
 </details>
 <details><summary><b> Где хранить криптовалюту? Какие есть кошельки?</b></summary>
-Хранить надёжнее всего на холодных кошельках.
-
-Есть кастодиальные (у тебя нет ключей) и некастодиальные (у тебя есть ключи) кошельки.
-Хорошие, известные некастодиальные кошельки:
-https://www.exodus.com/ (windows, macOS, Linux, Andoid, iOS)
-https://cakewallet.com/ (Andoid, iOS)
-https://trustwallet.com/ (
-Для биткоина самые популярные кошельки это https://electrum.org/ и 
-В зависимости от потребностей, 
+<br>Хранить надёжнее всего на холодных кошельках.
+<br>
+<br>Горячие Кошельки есть кастодиальные (у тебя нет ключей) и некастодиальные (у тебя есть ключи).
+<br>Хорошие, известные некастодиальные кошельки:
+<br>https://cakewallet.com/ (Andoid, iOS) - в подозрительных мутных движения замечен не был, хороший кошелёк.
+<br>https://www.exodus.com/ (windows, macOS, Linux, Andoid, iOS, расширение для браузера) - популярный удобный кошелёк, но исходный код закрытый. Плохая техническая поддержка.
+<br>https://cointelegraph.com/news/metamask-will-start-collecting-user-ip-addresses
+<br>https://trustwallet.com/ (Android, iOS, расширение для браузера) - фактически кошелёк биржи binance
+<br>https://metamask.io/ (расширение для браузера) - удобен для эфира и токенов на нём. <a href=https://cointelegraph.com/news/metamask-will-start-collecting-user-ip-addresses/>Собирает</a> ip адреса пользователей и метаданные.
+<br>Для биткоина самый популярный кошелёк это https://electrum.org/, для монеро https://featherwallet.org/, https://mymonero.com/ и https://www.getmonero.org/downloads/
 </details>
 <details><summary><b> Как обменять одну криптовалюту на другую криптовалюту?</b></summary>
 ...
