@@ -84,7 +84,7 @@ KYC - Know Your Client - знай своего клиента
 Хорошие, известные некастодиальные кошельки:
 https://www.exodus.com/ (windows, macOS, Linux, Andoid, iOS)
 https://cakewallet.com/ (Andoid, iOS)
-
+https://trustwallet.com/ (
 Для биткоина самые популярные кошельки это https://electrum.org/ и 
 В зависимости от потребностей, 
 </details>
