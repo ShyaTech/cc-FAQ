@@ -81,5 +81,6 @@ https://ru.wikipedia.org/wiki/Криптовалюта
 <a href=https://pastebin.com/mcHrtfxH>старый FAQ</a>
 <br>https://bitcoin.org/ru/faq
 <br>https://academy.binance.com/ru
+<br>https://github.com/snordenstorm/wiki/wiki/Майнинг-биткойнов
 </details>
 
