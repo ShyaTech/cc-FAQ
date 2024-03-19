@@ -269,7 +269,7 @@ https://blog.kraken.com/product/security/kraken-security-labs-finds-flaws-in-saf
 <details><summary><b> Может есть ещё какие-то FAQ?</b></summary>
 Есть.
    <br>
-<a href=https://pastebin.com/mcHrtfxH>старый FAQ</a>
+<a href=https://pastebin.com/mcHrtfxH>Старый FAQ</a>
 <br>https://bitcoin.org/ru/faq
 <br>https://academy.binance.com/ru
 <br>https://github.com/snordenstorm/wiki/wiki/Майнинг-биткойнов
