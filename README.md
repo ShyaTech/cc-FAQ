@@ -186,7 +186,7 @@ KYC – Know Your Client – знай своего клиента
  <br>Отметить можно следующие:
  <br>https://bisq.network/ – Открытый исходный код, ты имеешь ключи от монет, нет KYC.
  <br> https://basicswapdex.com/ – Открытый исходный код, ты имеешь ключи от монет, нет KYC.
- <br>https://hodlhodl.com/ Nы имеешь ключи от монет, нет KYC.
+ <br>https://hodlhodl.com/ Ты имеешь ключи от монет, нет KYC.
  Полный список всех DEX можно найти тут: https://www.coingecko.com/en/exchanges/decentralized
 </details>
 
