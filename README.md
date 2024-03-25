@@ -42,7 +42,7 @@
 <br>В этой книге рассказываются подробности создания биткоина, формирования коммьюнити, начало использования и прочее:
 <br>Поппер Н. Цифровое золото. Невероятная история биткоина – <a href=https://vk.com/doc310230351_450966910?hash=F7QSBDZvoPJDupZxU4C8uVbCGlPqpEqvkeZcZMsGfqX>скачать</a> 
 <br>
-<br>Ещё книги можно найти тут: https://bitcointalk.org/index.php?topic=1820209.0
+<br>Ещё книги можно найти тут: https://bitcointalk.org/index.php?topic=1820209.0 (для просмотра может потребоваться впн/прокси)
 <br>
 <br>Техническое описание биткоина – (white paper) (eng): https://bitcoin.org/bitcoin.pdf и (ru): https://bitcoin.org/files/bitcoin-paper/bitcoin_ru.pdf
 <br>
@@ -55,7 +55,7 @@ https://ru.wikipedia.org/wiki/Биткойн
 https://ru.wikipedia.org/wiki/Электронные_деньги
 <br>
 https://ru.wikipedia.org/wiki/Криптовалюта
-<br><br>Тут можно найти все сообщения самого Satoshi Nakamoto: https://bitcointalk.org/index.php?action=profile;u=3
+<br><br>Тут можно найти все сообщения самого Satoshi Nakamoto: https://bitcointalk.org/index.php?action=profile;u=3 (для просмотра может потребоваться впн/прокси)
 </details>
 
 <details><summary><b> Что такое NFT, gameFI, web 3 и web3.0?</b></summary>
