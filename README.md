@@ -68,7 +68,7 @@ NFT
 </details>
 
 <details><summary><b> Где купить криптовалюту?</b></summary>
-Вариант №1 - bestchange.ru
+Вариант №1 - https://www.bestchange.ru/
 <br>Вариант №2 - На бирже. Представляет собой p2p, в котором могут кинуть, не смотря на кажущаюся надежность.
 <br>Вариант №3 - Криптоматы
 <br>Можно посмотреть на различных картах, например: https://coinmap.org/view/#/world/-2.63578857/4.74609375/2/atm
@@ -85,7 +85,7 @@ NFT
 
 <details><summary><b> Что такое KYC, AML</b></summary>
 KYC - Know Your Client - знай своего клиента
-<br>На bestchange.ru обменники, которые требуют KYC, имеют знак человечка:
+<br>На https://www.bestchange.ru/ обменники, которые требуют KYC, имеют знак человечка:
 
 ![image](https://github.com/ShyaTech/cc-FAQ/assets/121751505/61e7ca0e-5344-4237-b2ce-b50adf165952)
 <br>AML - Anti-Money Laundering -противодействие отмыванию денег
