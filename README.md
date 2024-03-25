@@ -11,7 +11,9 @@
 
 
 <details><summary><b> Когда появилась криптовалюта, в чём отличие от любых других электронных денег?</b></summary>
-В 1983 году впервые предложили «протоколы электронной наличности».
+Большое влияние на появление электронной наличности оказали считьи Дэвида Чома 1982 года:
+ <a href=https://web.archive.org/web/20141218034712/http://www.hit.bme.hu/%7Ebuttyan/courses/BMEVIHIM219/2009/Chaum.BlindSigForPayment.1982.PDF>Blind signatures for untraceable payments</a> и 
+ <a href=https://web.archive.org/web/20110903023027/http://blog.koehntopp.de/uploads/chaum_fiat_naor_ecash.pdf>Untracable electronic cash</a>  
 <br>
 <br>Было много разных попыток создания электронных денег, но все они сталкивались с одними и теми же проблемами:
 <br>
