@@ -144,16 +144,14 @@ KYC – Know Your Client – знай своего клиента
 <br>Горячие Кошельки есть кастодиальные (у тебя нет ключей) и некастодиальные (у тебя есть ключи).
 <br>Хорошие, известные некастодиальные кошельки:
 <br>https://cakewallet.com/ (Andoid, iOS) – Хороший кошелёк, открытый исходный код. В подозрительных мутных движения замечен не был. Работает только на смартфонах.
-<br>https://www.exodus.com/ (Windows, macOS, Linux, Andoid, iOS, расширение для браузера) – популярный удобный кошелёк, но исходный код закрытый. Плохая техническая поддержка.
+<br>https://www.exodus.com/ (Windows, macOS, Linux, Andoid, iOS, расширение для браузера) – Популярный удобный кошелёк, но исходный код закрытый. Плохая техническая поддержка.
 <br>https://trustwallet.com/ (Android, iOS, расширение для браузера) – Открытый исходный код, фактически кошелёк биржи binance. Есть API.
-<br>https://metamask.io/ (расширение для браузера) – удобен для эфира и токенов на нём. <a href=https://cointelegraph.com/news/metamask-will-start-collecting-user-ip-addresses/>Собирает</a> ip адреса пользователей и метаданные.
+<br>https://metamask.io/ (расширение для браузера) – Удобен для эфира и токенов на нём. <a href=https://cointelegraph.com/news/metamask-will-start-collecting-user-ip-addresses/>Собирает</a> ip адреса пользователей и метаданные.
 <br>https://phantom.app/ (Android, iOS, расширение для браузера) – Популярный удобный кошелёк, но часто подвергается различного вида атакам. Много жалоб на фишинг и различные вирусы (болезнь всех кошельков в виде расширения для браузеров).
 <br>https://zelcore.io/ (Windows, Linux, macOS, Android, iOS) – Мультивалютный кошелёк, открытый исходный код.
 <br>https://coin98.com/ (Android, iOS, расщирение для браузера) – Мультивалютный кошелёк, открытый исходный код. Поддерживает Defi. Создатели из Вьетнама.
 <br>https://safepal.com/ (Android, iOS, расширение для браузера) – Мультивалютный кошелёк, созданный биржей binance. Закрытый исходный код. Находили некоторые <a href=https://blog.kraken.com/product/security/kraken-security-labs-finds-flaws-in-safepal-s1-hardware-wallet>уязвимости</a>. 
 
-
-https://blog.kraken.com/product/security/kraken-security-labs-finds-flaws-in-safepal-s1-hardware-wallet
 
 
 <br>Для биткоина самый популярный кошелёк это https://electrum.org/, для монеро https://featherwallet.org/, https://mymonero.com/ и https://www.getmonero.org/downloads/, для litecoin: https://litewallet.io/
@@ -162,10 +160,10 @@ https://blog.kraken.com/product/security/kraken-security-labs-finds-flaws-in-saf
 <details><summary><b> Как обменять одну криптовалюту на другую криптовалюту?</b></summary>
 Вариант №1 – На биржах, централизованных (CEX) и децентрализованных (DEX). Список CEX: https://www.coingecko.com/en/exchanges. Список DEX:https://www.coingecko.com/en/exchanges/decentralized
 <br>Вариант №2 – Попробовать атомарные свопы. https://unstoppableswap.net/ Без комиссий, но пока что работает только bitcoin -> monero.
-<br>Вариант №3 – На обменниках из выдачи на bestchange.ru (тут будут комиссии) 
+<br>Вариант №3 – На обменниках из выдачи на https://www.bestchange.ru/ (тут будут комиссии, ваши данные могут слить мошенникам, налоговой, полиции и прочим) 
 <br>Вариант №4 – Некоторые кошельки позволяют покупать с банковской карты. Работает не для всех стран. Такая возможность заявлена, например у Trust wallet, metamask, cake wallet и т.д.
 
-  <br>https://bisq.network/ – Открытый исходный код, ты имеешь ключи от монет, нет KYC.
+ <br>https://bisq.network/ – Открытый исходный код, ты имеешь ключи от монет, нет KYC.
  <br> https://basicswapdex.com/ – Открытый исходный код, ты имеешь ключи от монет, нет KYC.
  <br>https://hodlhodl.com/ – Ты имеешь ключи от монет, нет KYC.
  <br>
