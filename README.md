@@ -33,15 +33,20 @@
 
 
 <details><summary><b> Я хочу углубиться в историю денег и подробнее почитать про биткоин</b></summary>
-Довольно хорошо описана история денег и технические особенности в книге Cейфедина Аммуса - Краткая история денег, или Все, что нужно знать о биткоине <a href=https://docs.f2c.dev/Oris_Lab/The_Bitcoin_Standard_The_Decentralized_Alternative_To_Central_Banking.pdf>скачать</a>
+Довольно хорошо описана история денег и технические особенности в книге:
+<br>Cейфедин Аммус - Краткая история денег, или Все, что нужно знать о биткоине <a href=https://docs.f2c.dev/Oris_Lab/The_Bitcoin_Standard_The_Decentralized_Alternative_To_Central_Banking.pdf>скачать</a>
+<br>После этой книги можно стать крипто-макси, готовьтесь к изменению своего мировоззрения...
 <br>
-<br>В этой книге рассказываются подробности создания биткоина, формирования коммьюнити, начало использования и прочее: Поппер Н. Цифровое золото. Невероятная история биткоина - <a href=https://vk.com/doc310230351_450966910?hash=F7QSBDZvoPJDupZxU4C8uVbCGlPqpEqvkeZcZMsGfqX>скачать</a> 
+<br>В этой книге рассказываются подробности создания биткоина, формирования коммьюнити, начало использования и прочее:
+<br>Поппер Н. Цифровое золото. Невероятная история биткоина - <a href=https://vk.com/doc310230351_450966910?hash=F7QSBDZvoPJDupZxU4C8uVbCGlPqpEqvkeZcZMsGfqX>скачать</a> 
 <br>
 <br>Ещё книги можно найти тут: https://bitcointalk.org/index.php?topic=1820209.0
+<br>
 <br>Техническое описание биткоина - (white paper) (eng): https://bitcoin.org/bitcoin.pdf и (ru): https://bitcoin.org/files/bitcoin-paper/bitcoin_ru.pdf
 <br>
 <br>
-Основное можно почитать на <a href=http://www.lurklurk.com/bitcoin>лурке</a>  или на википедии:
+Кратко можно почитать на лурке или на википедии:
+<br> http://www.lurklurk.com/bitcoin
 <br>
 https://ru.wikipedia.org/wiki/Биткойн
 <br>
