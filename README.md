@@ -35,8 +35,10 @@
 <details><summary><b> Я хочу углубиться в историю денег и подробнее почитать про биткоин</b></summary>
 Довольно хорошо описана история денег и технические особенности в книге Cейфедина Аммуса - Краткая история денег, или Все, что нужно знать о биткоине <a href=https://docs.f2c.dev/Oris_Lab/The_Bitcoin_Standard_The_Decentralized_Alternative_To_Central_Banking.pdf>скачать</a>
 <br>
+<br>В этой книге рассказываются подробности создания биткоина, формирования коммьюнити, начало использования и прочее: Поппер Н. Цифровое золото. Невероятная история биткоина - <a href=https://vk.com/doc310230351_450966910?hash=F7QSBDZvoPJDupZxU4C8uVbCGlPqpEqvkeZcZMsGfqX>скачать</a> 
 <br>
-Техническое описание биткоина - (white paper) (eng): https://bitcoin.org/bitcoin.pdf и (ru): https://bitcoin.org/files/bitcoin-paper/bitcoin_ru.pdf
+<br>Ещё книги можно найти тут: https://bitcointalk.org/index.php?topic=1820209.0
+<br>Техническое описание биткоина - (white paper) (eng): https://bitcoin.org/bitcoin.pdf и (ru): https://bitcoin.org/files/bitcoin-paper/bitcoin_ru.pdf
 <br>
 <br>
 Основное можно почитать на <a href=http://www.lurklurk.com/bitcoin>лурке</a>  или на википедии:
@@ -207,8 +209,8 @@ https://blog.kraken.com/product/security/kraken-security-labs-finds-flaws-in-saf
 <br>Вариант №2 - безопастный, но медленный. Любой токен можно купить дав кошельку контракт токена. Из хороших кошельков можно порекомендовать https://phantom.app/
 <br>Вариант №3 - безопастный, но медленный. Покупка напрямую у пула. Необходимо зайти на сайт пула, например https://raydium.io/ и привязать кошелёк (например phantom).
 <br>Вариант №4 - небезопастный, очень быстрый, есть комиссии. Это телеграм-боты. Все они имеют схожий функционал, выбор это скорее дело вкуса. Большие суммы хранить не стоит, не раз их «взламывали».
-<br>
-Более или менее известные: @solana_trojanbot @SolTradingBot @bonkbot_bot @maestro @maestropro @BananaGunSolana_bot @magnum_trade_bot @stonks_sniper_bot
+<br>Более или менее известные: @solana_trojanbot @SolTradingBot @bonkbot_bot @maestro @maestropro @BananaGunSolana_bot @magnum_trade_bot @stonks_sniper_bot
+<br>Если надо отследить какой-то кошелёк (что покупает и продаёт), то есть такой бот на солане: @solana_notify_bot
 <br> Комиссии, функционал, торгуемые блокчейны, скорость могут меняться. Часто если кто-то активно предлагает вам бота, то он даёт вам его с реферальной ссылкой, так он будет иметь с вас комиссию.
 <br>Вариант №5 - кастомные боты с гитхаба/гитлаба/с выдачи гугла. Часто они могут работать по скорости так же как и телеграм-боты, но приходится запускать незнакомые .exe. Есть боты без комиссий.
 <br>Вариант №6 https://photon.tinyastro.io/ - небезопастный, но очень быстрый способ. Необходимо привязать кошелёк, например тот же phantom.
