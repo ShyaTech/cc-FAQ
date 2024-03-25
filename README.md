@@ -84,11 +84,11 @@ NFT
 
 
 <details><summary><b> Что такое KYC, AML</b></summary>
-KYC - Know Your Client - знай своего клиента
+KYC - Know Your Client – знай своего клиента
 <br>На https://www.bestchange.ru/ обменники, которые требуют KYC, имеют знак человечка:
 
 ![image](https://github.com/ShyaTech/cc-FAQ/assets/121751505/61e7ca0e-5344-4237-b2ce-b50adf165952)
-<br>AML - Anti-Money Laundering -противодействие отмыванию денег
+<br>AML - Anti-Money Laundering – противодействие отмыванию денег
 <br>На https://www.bestchange.ru/ обменники, которые требуют AML (сфоткать свою банковскую картну на фоне экрана с заявкой, имя и фамилию можно закрыть пальцем), имеют знак карточки:
 ![image](https://github.com/ShyaTech/cc-FAQ/assets/121751505/bb213a25-eaab-4f17-b284-184d74522bb4)
 <br>
