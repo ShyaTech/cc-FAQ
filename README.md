@@ -348,6 +348,9 @@ KYC – Know Your Client – знай своего клиента
 <details><summary><b> Можно ли как-то использовать криптовалюту, кроме как спекулировать ей?</b></summary>
 Можно.
 <br>Кроме очевидных магазинов в даркнете, есть ещё около-законные места.
+<br>Можно купить предоплаченные карты: https://www.coinsbee.com/
+<br>Можно купить подарочные карты и оплатить ими в магазине: https://coincards.com/ и https://www.bitrefill.com/
+<br>Монеро-маркет: https://moneromarket.io/
 <br>Тут собраны все места торговли ИРЛ за крипту: https://cryptwerk.com/
 <br> Тут различные vps, vpn, sms и прочее: https://kycnot.me/
 </details>
