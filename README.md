@@ -11,7 +11,7 @@
 
 
 <details><summary><b> Когда появилась криптовалюта, в чём отличие от любых других электронных денег?</b></summary>
-Большое влияние на появление электронной наличности оказали считьи Дэвида Чома 1982 года:
+Большое влияние на появление электронной наличности оказали статьи Дэвида Чома 1982 года:
  <a href=https://web.archive.org/web/20141218034712/http://www.hit.bme.hu/%7Ebuttyan/courses/BMEVIHIM219/2009/Chaum.BlindSigForPayment.1982.PDF>Blind signatures for untraceable payments</a> и 
  <a href=https://web.archive.org/web/20110903023027/http://blog.koehntopp.de/uploads/chaum_fiat_naor_ecash.pdf>Untracable electronic cash</a>  
 <br>
