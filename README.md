@@ -320,7 +320,9 @@ KYC – Know Your Client – знай своего клиента
 <br>
 <br> Если есть желание потрейдить токены, то лучше использовать какие-то вспомогательные индикаторы, например при клике по fx можно выбрать нужный: 
 <br>  
- ![image](https://github.com/user-attachments/assets/28766970-4a28-4761-a6ca-9ba517faaebe) 
+
+ ![image](https://github.com/user-attachments/assets/ca099faf-d9c3-4469-b1d6-4e8e17e6720a)
+
  
 <br> Начать можно с Ema Cross, VWAP, Keltner Channels, MACD, RSI, OBV.
 </details> 
